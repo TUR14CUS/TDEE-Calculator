@@ -26,7 +26,7 @@ To use the TDEE Calculator, follow these steps:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/TUR14CUS/tdee-calculator-java.git
+    git clone https://github.com/TUR14CUS/TDEE-Calculator.git
     ```
 
 2. **Navigate to the Project Directory:**
